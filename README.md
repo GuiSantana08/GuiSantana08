@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Guilherme Santana </h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guisantana08&label=Profile%20views&color=0e75b6&style=flat" alt="guisantana08" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guisantana08" alt="guisantana08" /></a> </p>
+
+
 # 💫 About Me:
 
 🔭 I’m currently **Master's student in Computer Science at NOVA School of Science and Technology**<br>
 
-![](https://github-readme-stats.vercel.app/api?username=GuiSantana08&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GuiSantana08&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSantana08&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Socials:
 
